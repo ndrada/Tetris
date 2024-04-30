@@ -1,0 +1,15 @@
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\007-WPF-tetris-game.csproj.AssemblyReference.cache
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\MainWindow.g.cs
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\App.g.cs
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\007-WPF-tetris-game_MarkupCompile.cache
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\007-WPF-tetris-game_MarkupCompile.lref
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\bin\Debug\007-WPF-tetris-game.exe.config
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\bin\Debug\007-WPF-tetris-game.exe
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\bin\Debug\007-WPF-tetris-game.pdb
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\MainWindow.baml
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\007-WPF-tetris-game.g.resources
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\_007_WPF_tetris_game.Properties.Resources.resources
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\007-WPF-tetris-game.csproj.GenerateResource.cache
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\007-WPF-tetris-game.csproj.CoreCompileInputs.cache
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\007-WPF-tetris-game.exe
+C:\Users\andra\OneDrive\Desktop\code\C#\007-WPF-tetris-game\obj\Debug\007-WPF-tetris-game.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6E74F6-DA45-495E-A254-FF22C397E2DC}|007-WPF-tetris-game.csproj|C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6E74F6-DA45-495E-A254-FF22C397E2DC}|007-WPF-tetris-game.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6E74F6-DA45-495E-A254-FF22C397E2DC}|007-WPF-tetris-game.csproj|C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6E74F6-DA45-495E-A254-FF22C397E2DC}|007-WPF-tetris-game.csproj|solutionrelative:gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6E74F6-DA45-495E-A254-FF22C397E2DC}|007-WPF-tetris-game.csproj|C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6E74F6-DA45-495E-A254-FF22C397E2DC}|007-WPF-tetris-game.csproj|solutionrelative:block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:54:15.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\Block.cs",
+              "RelativeDocumentMoniker": "Block.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\Block.cs",
+              "RelativeToolTip": "Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:59:51.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameGrid.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\GameGrid.cs",
+              "RelativeDocumentMoniker": "GameGrid.cs",
+              "ToolTip": "C:\\Users\\andra\\OneDrive\\Desktop\\code\\C#\\007-WPF-tetris-game\\GameGrid.cs",
+              "RelativeToolTip": "GameGrid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:36:12.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
